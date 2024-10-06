@@ -7,6 +7,8 @@ Learn about Arduino Education courses and other projects that use Arduino Cloud.
 
 ---
 
+test
+
 ## Courses & Kits
 
 ### Explore IoT Rev2
